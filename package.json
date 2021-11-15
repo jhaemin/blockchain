@@ -1,0 +1,14 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "Jang Haemin <io@jhaemin.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.7"
+  }
+}
